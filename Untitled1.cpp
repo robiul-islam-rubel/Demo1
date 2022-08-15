@@ -42,7 +42,8 @@ void solve()
  {
    ll n,k,a,b,c,sum,odd,even,cnt;
    cout<<"Welcome to Uttara University"<<endl;
-   cout<<"Hi, Rubel"
+   cout<<"Hi, Rubel"<<endl;
+   cout<<"string"<<endl;
 
 
  }
